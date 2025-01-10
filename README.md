@@ -36,6 +36,7 @@ The primary goal of this project is to:
 
 1. **Dataset**:
    - Comprehensive data from the NIFTY 50 index, including historical stock prices, volumes, and other financial metrics.
+   - This dataset are from yahoo finance library which has live dataset or latest dataset yahoo finance build a library for it (yfinance)
 
 2. **Preprocessing**:
    - Data cleaning, normalization, and handling of missing values to ensure model accuracy and reliability.
@@ -92,5 +93,3 @@ The primary goal of this project is to:
 This project exemplifies the integration of AI into financial analytics, addressing the complexities of stock market behavior. It provides a robust starting point for further advancements in stock price prediction, paving the way for smarter, data-driven financial decisions.
 
 --- 
-
-Feel free to modify this document to tailor it further to the specifics of your analysis or include additional sections such as example outputs or step-by-step instructions for running the notebook.
